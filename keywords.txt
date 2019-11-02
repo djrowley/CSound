@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For cSound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CSound	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# CSound
+
+begin	KEYWORD2
+
+playStartup	KEYWORD2
+playFire	KEYWORD2
+playReload	KEYWORD2
+playOutOfAmmo	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#CSound
+
+SOUND_RX_PIN	LITERAL1
+SOUND_TX_PIN 	LITERAL1
+
